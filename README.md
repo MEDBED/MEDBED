@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MEDBED
 - 👀 I’m interested in coding
-- 🌱 I’m currently keep learning about frontEnd engineer 
+- 🌱 I'm currently Senior Front End engineer and keep learning about frontEnd engineer 
 - 💞️ I’m looking to collaborate on angular
 - 📫 How to reach me  bouhamed@coffeescript.fr
 
